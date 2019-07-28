@@ -1,3 +1,3 @@
-(load "chapter2/interval.scm")
+(load "chapter2/tree.scm")
 (newline)
 (exit)

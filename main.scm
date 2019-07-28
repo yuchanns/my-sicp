@@ -1,3 +1,3 @@
-(load "chapter2/rectangle.scm")
+(load "chapter2/interval.scm")
 (newline)
 (exit)

@@ -1,3 +1,3 @@
-(load "chapter2/tree.scm")
+(load "chapter2/interface.scm")
 (newline)
 (exit)

@@ -1,3 +1,3 @@
-(load "chapter2/interface.scm")
+(load "chapter2/flatmap.scm")
 (newline)
 (exit)
